@@ -1,0 +1,28 @@
+{
+  "name": "intuit-bell",
+  "version": "1.0.0",
+  "description": "hapi bell provider for intuit OAuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek/intuit-bell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/geek/intuit-bell/issues"
+  },
+  "homepage": "https://github.com/geek/intuit-bell#readme",
+  "devDependencies": {
+    "bell": "^7.3.0",
+    "code": "^2.1.1",
+    "hapi": "^13.2.2",
+    "hawk": "^4.1.2",
+    "lab": "^10.3.0",
+    "wreck": "^7.1.0"
+  }
+}
