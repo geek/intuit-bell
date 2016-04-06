@@ -1,6 +1,6 @@
 {
   "name": "intuit-bell",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "hapi bell provider for intuit OAuth",
   "main": "index.js",
   "scripts": {
